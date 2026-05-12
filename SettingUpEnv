@@ -1,0 +1,26 @@
+Steps to create a Python virtual environment in Windows:
+
+1. Open Command Prompt or PowerShell.
+2. Navigate to your project directory: cd path\to\your\project
+3. Create the virtual environment: python -m venv myenv
+4. Activate the environment: myenv\Scripts\activate
+5. Install packages if needed: pip install package_name
+6. Deactivate when done: deactivate
+
+
+
+OR
+
+1. Open Command Prompt go inside folder
+2. python -m venv314 
+3. source venv314\bin\activate(mac)
+4. pip install -r requirments.txt
+
+
+how to run?
+
+To run a Python file, use: python filename.py
+
+how to disable current env?
+
+

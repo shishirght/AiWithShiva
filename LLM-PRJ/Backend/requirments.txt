@@ -1,0 +1,21 @@
+# Web framework for building APIs
+fastapi
+# ASGI server for running FastAPI
+uvicorn
+# Framework for building applications with LLMs
+langchain
+# Vector database for embeddings connect
+chromadb
+# Asynchronous MongoDB driver
+motor
+#pdf file
+pypdf
+#create vectors
+sentence-transformers
+#Generate AI output
+openai
+#used to upload PDF files
+python-multipart
+
+
+
