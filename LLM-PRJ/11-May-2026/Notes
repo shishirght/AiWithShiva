@@ -1,0 +1,26 @@
+we wil prepare AI project to toknise pdf and search answer using ai
+1) python3 -m venv venv
+
+2) source venv\bin\activate (mac)
+   venv\Scripts\activate (windows)
+
+3) pip install -r requirements.txt
+Ex.
+        langchain
+            LLM Framework
+            Define LLM Flow
+
+        pypdf
+            read pdf file
+
+        sentence-transformers
+            used to create embeddings
+
+        chromadb
+            chromadb used to connect to vectordb
+
+        openai
+            used to generate AI output
+
+        python-multipart
+            used to upload the pdf files
